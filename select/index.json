@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Enjoy the Silence",
+  "base_artist": "Depeche Mode",
+  "createdAt": "2026-03-08T20:23:23.559564Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Enjoy The Silence",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/01_Enjoy_The_Silence_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Enjoy the Silence",
+      "artist": "Nada Surf",
+      "has_synced": true,
+      "path": "select/02_Enjoy_the_Silence_Nada_Surf.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Enjoy the Silence (Reinterpreted)",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/03_Enjoy_the_Silence_(Reinterpreted)_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Enjoy the Silence - Timo Maas Extended Remix",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/04_Enjoy_the_Silence_-_Timo_Maas_Extended_Remix_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Enjoy The Silence (Timo Maas Extended Remix)",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/05_Enjoy_The_Silence_(Timo_Maas_Extended_Remix)_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Enjoy The Silence",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/06_Enjoy_The_Silence_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Enjoy The Silence",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/07_Enjoy_The_Silence_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Enjoy the Silence",
+      "artist": "Depeche Mode feat. Daniel Miller & Phil Legg",
+      "has_synced": false,
+      "path": "select/08_Enjoy_the_Silence_Depeche_Mode_feat._Daniel_Miller_&_Phil_Legg.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Enjoy the Silence (remix)",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/09_Enjoy_the_Silence_(remix)_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Enjoy the Silence",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/10_Enjoy_the_Silence_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Enjoy the Silence - Live",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/11_Enjoy_the_Silence_-_Live_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Enjoy the Silence (reinterpreted by Mike Shinoda)",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/12_Enjoy_the_Silence_(reinterpreted_by_Mike_Shinoda)_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Enjoy The Silence (Reinterpreted - Mike Shinoda)",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/13_Enjoy_The_Silence_(Reinterpreted_-_Mike_Shinoda)_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Enjoy The Silence - 7'' Version",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/14_Enjoy_The_Silence_-_7''_Version_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Enjoy The Silence [7' Version]",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/15_Enjoy_The_Silence_[7'_Version]_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Enjoy The Silence - Hands And Feet Mix",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/16_Enjoy_The_Silence_-_Hands_And_Feet_Mix_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Enjoy The Silence [Hands And Feet Mix]",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/17_Enjoy_The_Silence_[Hands_And_Feet_Mix]_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Enjoy The Silence - Harmonium",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/18_Enjoy_The_Silence_-_Harmonium_Depeche_Mode.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Enjoy The Silence",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/pl_01_Enjoy_The_Silence_Depeche_Mode.txt"
+    }
+  ]
+}
